@@ -1,0 +1,9 @@
+.DS_Store
+nbproject
+target
+^nbactions\.xml$
+.classpath
+.project
+.settings
+.+\.bak
+.+\.orig
